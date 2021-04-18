@@ -20,7 +20,7 @@ Companies employing customer segmentation operate under the fact that every cust
 
 PS 1: All the references are stated at the end of this README.
 
-PS 2: You can find useful information at **section 1** of my [notebook](https://#).
+PS 2: You can find useful information at **section 1** of my [notebook](https://github.com/brunokatekawa/food_retail_clustering/blob/main/02_iFood_Mkt_Clustering.ipynb).
 
 <br>
 
